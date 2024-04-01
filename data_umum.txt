@@ -1,0 +1,21 @@
+1234567890, Ahmad Budi, 2020, Beasiswa Prestasi Akademik
+2345678901, Citra Dewi, 2019, Beasiswa Bidikmisi
+3456789012, Eko Jaya, 2021, Beasiswa PPA
+4567890123, Fitriani Hasanah, 2020, Beasiswa Unggulan
+5678901234, Galih Pratama, 2018, Beasiswa Eksternal
+6789012345, Hana Putri, 2022, Beasiswa Prestasi Seni
+7890123456, Irfan Rahman, 2019, Beasiswa PPA
+8901234567, Joko Susilo, 2021, Beasiswa Bidikmisi
+9012345678, Kartika Wulandari, 2020, Beasiswa Prestasi Olahraga
+0123456789, Lina Fitriana, 2017, Beasiswa Eksternal
+1122334455, Mega Sari, 2018, Beasiswa Prestasi Akademik
+2233445566, Nanda Putra, 2022, Beasiswa PPA
+3344556677, Oky Prasetyo, 2019, Beasiswa Unggulan
+4455667788, Putri Indah, 2021, Beasiswa Bidikmisi
+5566778899, Rudi Hermawan, 2020, Beasiswa Prestasi Seni
+6677889900, Siti Nurhayati, 2018, Beasiswa PPA
+7788990011, Tono Pratama, 2022, Beasiswa Prestasi Olahraga
+8899001122, Umar Abdullah, 2017, Beasiswa Eksternal
+9900112233, Vina Rosita, 2019, Beasiswa Prestasi Akademik
+0011223344, Wawan Setiawan, 2021, Beasiswa PPA
+1122334455, Yulia Dewi, 2020, Beasiswa Bidikmisi
